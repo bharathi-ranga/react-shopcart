@@ -47,6 +47,7 @@ function App() {
               sale="1"
             />
           </div>
+    <div className="row justify-content-center">
         </div>
           <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3">
             <Card
@@ -84,6 +85,7 @@ function App() {
               sale="0"
             />
           </div>
+    </div>
       </div>
       <Footer />
     </div>
