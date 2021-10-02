@@ -1,0 +1,51 @@
+.card-app {
+  width: 16rem;
+  height: 24rem;
+  border-radius: 0.8rem;
+  border: 1px solid rgb(141, 137, 137);
+  padding: 0;
+  margin-top: 2rem;
+}
+.card-top {
+  background: #ccc;
+  position: relative;
+  height: 12rem;
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+.card-bottom {
+  padding: 0.8rem;
+  text-align: center;
+}
+.title {
+  display: block;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+.rating {
+  padding: 0.4rem;
+}
+.price {
+  padding: 0.4rem;
+}
+.options {
+  display: inline-block;
+  border: 0.8px solid black;
+  border-radius: 3px;
+  padding: 0.6rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
+.options:hover {
+  background: black;
+  color: white;
+}
+
+.sale {
+  position: absolute;
+  background: black;
+  color: white;
+  border-radius: 3px;
+  padding: 0.1rem 0.3rem 0.1rem 0.3rem;
+  right: 0.8rem;
+  top: 0.5rem;
+}
