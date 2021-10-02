@@ -11,7 +11,7 @@ function App() {
       <Strip />
       <div className="container">
         <div className="row">
-          <div className="col col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3">
             <Card
               title="Fancy Product"
               rating="0"
@@ -20,7 +20,7 @@ function App() {
               sale="0"
             />
           </div>
-          <div className="col col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3">
             <Card
               title="Fancy Product"
               rating="0"
@@ -29,7 +29,7 @@ function App() {
               sale="1"
             />
           </div>
-          <div className="col col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3">
             <Card
               title="Fancy Product"
               rating="0"
@@ -38,7 +38,7 @@ function App() {
               sale="0"
             />
           </div>
-          <div className="col col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3">
             <Card
               title="Fancy Product"
               rating="0"
@@ -49,7 +49,7 @@ function App() {
           </div>
         </div>
         <div className="row">
-          <div className="col col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3">
             <Card
               title="Fancy Product"
               rating="0"
@@ -58,7 +58,7 @@ function App() {
               sale="1"
             />
           </div>
-          <div className="col col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3">
             <Card
               title="Fancy Product"
               rating="0"
@@ -67,7 +67,7 @@ function App() {
               sale="1"
             />
           </div>
-          <div className="col col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3">
             <Card
               title="Fancy Product"
               rating="0"
@@ -76,7 +76,7 @@ function App() {
               sale="0"
             />
           </div>
-          <div className="col col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3">
             <Card
               title="Fancy Product"
               rating="0"
